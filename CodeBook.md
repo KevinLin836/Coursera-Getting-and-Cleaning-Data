@@ -1,9 +1,3 @@
----
-title: "CodeBook"
-output:
-  word_document: default
-  pdf_document: default
----
 
 The run_analysis.R script collects and cleans a data set through 5 different steps. The data was obtained from:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
