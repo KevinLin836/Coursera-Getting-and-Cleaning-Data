@@ -1,7 +1,4 @@
----
-title: "README"
-output: html_document
----
+# README
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 This repository is Kevin Lin's submission for the Getting and Cleaning Data Course Project. The following describes the files and the data set used in the completion of the project. 
